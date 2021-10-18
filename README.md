@@ -12,4 +12,6 @@ I will definitely improve the CSS, as right now it only works for laptops :(
 
 Keep suggesting me good things and your are open to pull requests and add the changes if you want to.
 
+Site hosted at https://my-diary-project.herokuapp.com/
+
 Thank You :)
